@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Manoj Kumar
 
-<!--
-**Manojrepo/Manojrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Test Engineer | QA Automation Engineer
 
-Here are some ideas to get you started:
+![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojrepo&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manojrepo)
+
+## Skills
+
+✅ Playwright
+
+✅ TypeScript
+
+✅ JavaScript
+
+✅ API Testing
+
+✅ Postman
+
+✅ HTTP/HTTPS
+
+✅ Git & GitHub
+
+✅ CI/CD
+
+✅ Manual Testing
+
+✅ Functional Testing
+
+✅ Regression Testing
+
+✅ Agile Scrum
